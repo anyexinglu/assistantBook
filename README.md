@@ -10,6 +10,7 @@
 
 ### npm
 More in https://docs.npmjs.com/cli/config
+
 查看当前registry
 - npm config list registry
 设置registry
