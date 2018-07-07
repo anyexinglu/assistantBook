@@ -21,3 +21,8 @@ More in https://docs.npmjs.com/cli/config
 ### yarn
 - yarn global add @msfe/create-pdd-cli // 全局安装
 - yarn add @msfe/create-pdd-cli // 本项目安装
+
+### nginx
+- sudo nginx -s stop    // 停止
+- sudo nginx            // 启动
+- sudo nginx -s reload  // 重启
